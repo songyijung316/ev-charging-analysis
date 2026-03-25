@@ -152,3 +152,16 @@ python code/ev_infra_visualization.py
 python code/population_by_region.py
 python code/population_charger_analysis.py
 python code/charger_type_visualize.py
+```
+
+### [기능 파트]
+
+```bash
+python code/ev_charger_search.py
+python code/charger_map.py
+python code/charger_map_search.py
+```
+
+---
+
+
