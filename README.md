@@ -160,12 +160,16 @@ python code/ev_charger_search.py
 python code/charger_map.py
 python code/charger_map_search.py
 
+---
+
 ## 7. 분석 지표
 지역별 전기차 등록 대수
 지역별 충전소 수
 전기차 1,000대당 충전소 수
 인구 10만명당 충전소 수
 급속 / 완속 충전기 비율
+
+---
 
 ## 8. 핵심 기능
 지역 검색 기반 충전소 조회
@@ -174,6 +178,8 @@ python code/charger_map_search.py
 지도 기반 충전소 위치 표시
 : 위경도 데이터를 활용하여 전국 충전소 또는
 검색 결과에 해당하는 특정 지역 충전소를 지도에 시각화한다.
+
+---
 
 ## 9. 주의사항
 모든 실행은 프로젝트 루트 폴더 기준으로 수행해야 한다.
